@@ -1,0 +1,18 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+
+  "description": "Project Description",
+
+  "domain": "is-cool.dev",
+  "subdomain": "ashishkumar",
+
+  "owner": {
+    "email": "kumarashish96690@gmail.com"
+  },
+
+ "record": {
+    "CNAME": "https://profound-taiyaki-d613be.netlify.app/"
+  },
+
+  "proxy": false
+}
